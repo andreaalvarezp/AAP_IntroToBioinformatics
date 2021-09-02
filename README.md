@@ -1,4 +1,4 @@
-# Introduction To Bioinformatics: COmplementary Topics
+# Introduction To Bioinformatics: Complementary Topics
 
 An introduction to Computational Biology - UPM Master's Course
 
